@@ -1,0 +1,4 @@
+div.test {
+  -ms-flex-align: end;
+  -ms-flex-direction: column;
+}

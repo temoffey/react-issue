@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-issue"]=this["webpackJsonpreact-issue"]||[]).push([[0],[function(s,t,c){s.exports=c(1)},function(s,t,c){"use strict";c.r(t);c(2)},function(s,t,c){}],[[0,1]]]);
+//# sourceMappingURL=main.2d29e558.chunk.js.map
